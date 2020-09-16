@@ -1,0 +1,14 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --max-old-space-size=4096 index.js",
+    "createInstances": "node --max-old-space-size=4096 utils/createInstances.js",
+    "pairedTest": "node --max-old-space-size=4096 tPairedTest.js"
+  },
+  "dependencies": {
+    "date-fns": "^2.16.1"
+  }
+}
