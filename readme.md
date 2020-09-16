@@ -5,7 +5,7 @@
 - na pasta raiz execute npm install para instalar as dependencias
 
 ## Executar algoritmos de ordenação
- - npm start (vai executar o script index.js que é onde é feito)
+ - npm start (vai executar o script index.js)
 
 ## Ver resultados do grafico
  - abra o arquivo index.html no navegador
